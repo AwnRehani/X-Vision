@@ -1,0 +1,10 @@
+# Node.js frontend dependencies
+node_modules/
+frontend/node_modules/
+
+# Already added earlier:
+venv/
+__pycache__/
+*.pyc
+.vscode/
+*.log
